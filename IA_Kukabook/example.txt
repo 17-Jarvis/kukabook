@@ -1,0 +1,38 @@
+ALMOST PRICED OUT OF BUSINESS
+The Famulus simply had too many teething problems, sums up Hans Richard Iradt "The robot would still stubbornly travel along a relatively undefined path between the points it was given and ignore any components that were in the way" The cost of the control technology available at the time was just too great, and the inaccuracies were enormous. It was far from being ready for series production, KUKA may have become a pioneer in the fledgling robotics industry in one fell swoop, but there was still a lot of development work to be done. The future of this new business area was already at stake shortly after the presentation of the Famulus, although it was not down to the product teething problems, but rather a conflict in the Middle East that was creating economic repercussions throughout the Western world.
+In the aftermath of another armed conflict between Israel and the Arab states in the 1973 Yom Kippur War OPEC countries tried to put pressure on Israel's allies- notably the United States by raising the price of ail The result was a global oil price crisis, with serious consequences for Western industry. In a bid to relieve the economy, the federal government introduced the concept of car-free Sundays. With the economy as a whole in a deep slump, KUKA and its owner IWKA were also hit hard by the crisis. "Even before that, IWKA had said, "We'll have to shut down your department if things don't start picking up for you. But things really started to get serious from the mid-1970s," recalls Stefan Müller
+It was during this time that Müller was constantly on the lookout for 'new pots of money', as he describes it, to continue his pioneering work. At the time, he and his team were part of the system integration department at KUKA. Robotics was not yet a dedicated department, but internally the company was enthusiastic about the possibilities of robots and convinced of their future viability. Nevertheless, financial pressure from above was really starting to get to KUKA until support came in from a completely different source the German Federal Ministry for Research and Develop ment (BMBF). The government had recognized the opportunities and future viability of the new technolo gies and was keen to promote the development of robots at KUKA as part of the ARGE project 'Handling
+
+systems to humanize working life. With that, the future
+
+of the development team was safe for the time being
+
+"WE'LL HAVE TO SHUT DOWN YOUR DEPARTMENT IF THINGS DON'T START PICKING UP FOR YOU..."
+
+-IWKA to the KUKA robot team in the mid 1970
+
+Robots
+
+_From fascination to reality
+
+In the mid-1970s, the Federal Ministry's ARGE project also included a number of scientists from what initially. seemed an unlikely field: sociologists. Their role here was to analyze opinions and ensure there were no fears about the robots being developed. After all, there were definitely reservations about the new technology.
+
+The idea and fascination of creating machines that can think and act independently has been around since ancient times. In the 19th and 20th centuries, the idea of the autonomously acting machine started to gain traction in literature, and in the 1940s, Russian-American science fiction author Isaac Asimov became world-famous for his robot novels. With the introduction of computer technology, it finally became possible and more straightforward - to construct machines that work independently, and so the triumphant advance of robots began with the pioneers George Devol and Joseph Engelberger. Engelberger's vision of a factory in which robots take over all activities from the assembly line to quality control to shipping - suddenly seems within reach.
+
+But not everyone was quite as interested. With auto- mation in factories and the arrival of the first robots in the 1960s and 1970s, the robot became part of everyday life. Robots were taking over standardized production steps, which meant human labor was replaced entirely in some areas. The fear of being made redundant by a robot was a recurring public concern,
+
+although the reality was that this fear was unfounded: Robots primarily take over the strenuous and monoto- nous routine tasks, making life easier for humans. Despite many areas of the economy becoming in- creasingly automated with more and more robots being introduced, humans are and will remain Irreplaceable. Where robots take over human activities, skilled workers are freed up for more sophisticated tasks. Particularly in times of a shortage of skilled workers, there has even been a kind of paradigm shift in recent years: In order to adequately compensate for the lack of skilled workers, standardized tasks are having to be taken over by robots.
+
+This page also contains a image here is the description:
+
+
+Industrial Robotics in Action: This image showcases industrial robotic arms working on the assembly of a car body. Taken at Hannover Messe in 2004, it highlights the precision and efficiency of modern automation in manufacturing processes.
+
+Car Assembly Robotics: The photo features robotic arms handling a car body frame. The bright orange robots are equipped with various tools and sensors, exemplifying the advanced technology used in automobile manufacturing.
+
+Automated Car Body Assembly: Two industrial robots are seen assembling a car body at Hannover Messe 2004. The image captures the intricacy and capability of robotic systems in performing complex tasks in the automotive industry.
+
+Robotic Manufacturing: The image depicts two KUKA robots assembling a car chassis, emphasizing the role of robotics in enhancing productivity and accuracy in automotive manufacturing. This was captured at the Hannover Messe exhibition in 2004.
+
+Precision Robotics in Car Manufacturing: Showcasing the use of robotic arms in the automotive industry, this image from Hannover Messe 2004 demonstrates how robots can precisely handle and assemble car body parts, revolutionizing manufacturing processes.
+
